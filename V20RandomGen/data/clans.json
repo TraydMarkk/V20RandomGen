@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Assamite",
+    "disciplines": ["Celerity", "Obfuscate", "Quietus"],
+    "weakness": "Addicted to vitae; must resist the urge to drink from other vampires.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Brujah",
+    "disciplines": ["Celerity", "Potence", "Presence"],
+    "weakness": "Difficulty resisting frenzy (+2 difficulty).",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Followers of Set",
+    "disciplines": ["Obfuscate", "Presence", "Serpentis"],
+    "weakness": "Suffer penalties in bright light and take extra damage from sunlight.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Gangrel",
+    "disciplines": ["Animalism", "Fortitude", "Protean"],
+    "weakness": "Gain a permanent animal feature after each frenzy.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Giovanni",
+    "disciplines": ["Dominate", "Necromancy", "Potence"],
+    "weakness": "Their Kiss inflicts painful, damaging bites on mortals.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Lasombra",
+    "disciplines": ["Dominate", "Obtenebration", "Potence"],
+    "weakness": "Cast no reflection or shadow and take extra damage from sunlight.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Malkavian",
+    "disciplines": ["Auspex", "Dementation", "Obfuscate"],
+    "weakness": "All members suffer from at least one permanent derangement.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Nosferatu",
+    "disciplines": ["Animalism", "Obfuscate", "Potence"],
+    "weakness": "Hideous and deformed; Appearance is effectively zero.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Ravnos",
+    "disciplines": ["Animalism", "Chimerstry", "Fortitude"],
+    "weakness": "Compelled by a personal vice; must check Willpower to resist.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Toreador",
+    "disciplines": ["Auspex", "Celerity", "Presence"],
+    "weakness": "Entranced by art or beauty; may be immobilized without a Willpower roll.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Tremere",
+    "disciplines": ["Auspex", "Dominate", "Thaumaturgy"],
+    "weakness": "Bound by loyalty; all are one step toward a clan blood bond.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Tzimisce",
+    "disciplines": ["Animalism", "Auspex", "Vicissitude"],
+    "weakness": "Must rest in contact with at least two handfuls of native soil.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Ventrue",
+    "disciplines": ["Dominate", "Fortitude", "Presence"],
+    "weakness": "Can only feed on a very specific type of mortal vessel.",
+    "source": "White Wolf Wiki – Legacy Clan (V20)"
+  },
+  {
+    "name": "Caitiff",
+    "disciplines": [],
+    "weakness": "No clan weakness but suffer stigma; no in-clan disciplines.",
+    "source": "White Wolf Wiki – Caitiff (V20)"
+  }
+]
+

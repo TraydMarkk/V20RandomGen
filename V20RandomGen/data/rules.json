@@ -1,0 +1,15 @@
+{
+  "attribute_base": 1,
+  "attribute_caps": 5,
+  "attribute_pools": [7, 5, 3],
+  "ability_base": 0,
+  "ability_caps": 3,
+  "ability_pools": [13, 9, 5],
+  "virtue_base": 1,
+  "virtue_caps": 5,
+  "virtue_pool": 7,
+  "discipline_caps": 5,
+  "discipline_pool": 3,
+  "universal_disciplines": ["Celerity", "Potence", "Fortitude"]
+}
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>V20 Random Character Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Vampire: the Masquerade — V20 Random Character</h1>
+      <p class="subtitle">Pick a clan, hit Generate, and download a .txt snapshot.</p>
+    </header>
+
+    <section class="controls">
+      <label for="clan-select">Clan</label>
+      <select id="clan-select"></select>
+      <div class="buttons">
+        <button id="generate-btn">Generate</button>
+        <button id="download-btn" disabled>Download .txt</button>
+      </div>
+    </section>
+
+    <section class="output">
+      <h2>Character Sheet</h2>
+      <pre id="output-area" aria-live="polite">Load a clan and generate to see results.</pre>
+    </section>
+
+    <section class="shutdown">
+      <h2>Shutdown</h2>
+      <p>To stop the local server, go to the terminal running <code>python -m http.server 8000</code> and press <strong>Ctrl+C</strong>, then close this browser tab.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
+

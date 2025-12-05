@@ -1,0 +1,39 @@
+{
+  "Talents": [
+    "Alertness",
+    "Athletics",
+    "Awareness",
+    "Brawl",
+    "Empathy",
+    "Expression",
+    "Intimidation",
+    "Leadership",
+    "Streetwise",
+    "Subterfuge"
+  ],
+  "Skills": [
+    "Animal Ken",
+    "Crafts",
+    "Drive",
+    "Etiquette",
+    "Firearms",
+    "Larceny",
+    "Melee",
+    "Performance",
+    "Stealth",
+    "Survival"
+  ],
+  "Knowledges": [
+    "Academics",
+    "Computer",
+    "Finance",
+    "Investigation",
+    "Law",
+    "Medicine",
+    "Occult",
+    "Politics",
+    "Science",
+    "Technology"
+  ]
+}
+
